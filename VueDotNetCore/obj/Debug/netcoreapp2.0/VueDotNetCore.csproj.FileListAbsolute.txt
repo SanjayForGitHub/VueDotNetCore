@@ -1,0 +1,11 @@
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\bin\Debug\netcoreapp2.0\VueDotNetCore.deps.json
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\bin\Debug\netcoreapp2.0\VueDotNetCore.runtimeconfig.json
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\bin\Debug\netcoreapp2.0\VueDotNetCore.runtimeconfig.dev.json
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\bin\Debug\netcoreapp2.0\VueDotNetCore.dll
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\bin\Debug\netcoreapp2.0\VueDotNetCore.pdb
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.csprojResolveAssemblyReference.cache
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.csproj.CoreCompileInputs.cache
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.AssemblyInfoInputs.cache
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.AssemblyInfo.cs
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.dll
+G:\TestProjects\VueJs\VueDotNetCore\VueDotNetCore\obj\Debug\netcoreapp2.0\VueDotNetCore.pdb
