@@ -9,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 
 namespace VueDotNetCore
 {
@@ -51,10 +52,26 @@ namespace VueDotNetCore
 
             app.UseMvc(routes =>
             {
+                routes.MapRoute("Home", "",
+                  defaults: new
+                  {
+                      controller = "Home",
+                      action = "Content"
+                  });
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            //var _routerBuilder = new RouteBuilder(app);
+            //_routerBuilder.MapRoute("Home","",
+            //    defaults:new
+            //    {
+            //        controller= "Home",
+            //        action="Content"
+            //    });
+            //app.UseRouter(_routerBuilder.Build());
+            //routeB
+            app.Run(context => context.Response.WriteAsync("Hello World"));
         }
     }
 }
